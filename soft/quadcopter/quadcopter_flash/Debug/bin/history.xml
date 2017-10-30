@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -g -nostartfiles -Map=quadcopter_Flash.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\quadcopter -TC:\CooCox\CoIDE\configuration\ProgramData\quadcopter/arm-gcc-link.ld -g -LC:\CooCox\gcc\arm-none-eabi\lib\armv7-m -lm">
+      <target file="quadcopter_Flash.elf" lastModified="14bdca1b938">
+         <source file="C:\CooCox\gcc\arm-none-eabi\lib\armv7-m\libm.a" lastModified="137e6c09da0"/>
+         <source file="..\obj\stm32f4xx_syscfg.o" lastModified="14bd74bcf80"/>
+         <source file="..\obj\stm32f4xx_usart.o" lastModified="14bd74bd022"/>
+         <source file="..\obj\bmp180.o" lastModified="14bd74bd076"/>
+         <source file="..\obj\led.o" lastModified="14bd74bd0de"/>
+         <source file="..\obj\startup_stm32f4xx.o" lastModified="14bd74bd129"/>
+         <source file="..\obj\MadgwickAHRS.o" lastModified="14bdca0e428"/>
+         <source file="..\obj\main.o" lastModified="14bdca1b1a1"/>
+         <source file="..\obj\stm32f4xx_rcc.o" lastModified="14bd74bd3cf"/>
+         <source file="..\obj\hmc5883.o" lastModified="14bd74bd452"/>
+         <source file="..\obj\stm32f4xx_adc.o" lastModified="14bd74bd563"/>
+         <source file="..\obj\analog_drv.o" lastModified="14bd74bd5e4"/>
+         <source file="..\obj\i2c_bus.o" lastModified="14bd74bd660"/>
+         <source file="..\obj\at45db161.o" lastModified="14bd74bd6fb"/>
+         <source file="..\obj\stm32f4xx_gpio.o" lastModified="14bd74bd77d"/>
+         <source file="..\obj\uart_log.o" lastModified="14bd74bd813"/>
+         <source file="..\obj\system_stm32f4xx.o" lastModified="14bd74bd87b"/>
+         <source file="..\obj\pwm_driver.o" lastModified="14bd74bd8e2"/>
+         <source file="..\obj\a7105_drv.o" lastModified="14bd74bd960"/>
+         <source file="..\obj\stm32f4xx_spi.o" lastModified="14bd74bda18"/>
+         <source file="..\obj\cbuff.o" lastModified="14bd74bda5a"/>
+         <source file="..\obj\stm32f4xx_i2c.o" lastModified="14bd74bdaf9"/>
+         <source file="..\obj\stm32f4xx_exti.o" lastModified="14bd74bdb5e"/>
+         <source file="..\obj\spi_bus.o" lastModified="14bd74bdbc1"/>
+         <source file="..\obj\misc.o" lastModified="14bd74bdc24"/>
+         <source file="..\obj\MPU6050.o" lastModified="14bd74bdc9e"/>
+         <source file="..\obj\wake.o" lastModified="14bd74bdcf1"/>
+         <source file="..\obj\pid.o" lastModified="14bd74bdd8a"/>
+         <source file="..\obj\stm32f4xx_tim.o" lastModified="14bd74bdedc"/>
+      </target>
+   </processor>
+</history>

@@ -1,0 +1,367 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+AddTarget	box2d_quad.py	/^	def AddTarget(self,p):$/;"	kind:member	line:160	language:Python	class:qcopter	access:public
+BeginContact	framework.py	/^    def BeginContact(self, contact):$/;"	kind:member	line:446	language:Python	class:FrameworkBase	access:public
+CheckKeys	pygame_framework.py	/^    def CheckKeys(self):$/;"	kind:member	line:370	language:Python	class:PygameFramework	access:public
+CheckKeys	pyglet_framework.py	/^    def CheckKeys(self):$/;"	kind:member	line:586	language:Python	class:PygletFramework	access:public
+CheckKeys	pyqt4_framework.py	/^    def CheckKeys(self):$/;"	kind:member	line:664	language:Python	class:Pyqt4Framework	access:public
+CompleteBombSpawn	framework.py	/^    def CompleteBombSpawn(self, p):$/;"	kind:member	line:331	language:Python	class:FrameworkBase	access:public
+ConvertScreenToWorld	framework.py	/^    def ConvertScreenToWorld(self, x, y):$/;"	kind:member	line:391	language:Python	class:FrameworkBase	access:public
+ConvertScreenToWorld	pygame_framework.py	/^    def ConvertScreenToWorld(self, x, y):$/;"	kind:member	line:405	language:Python	class:PygameFramework	access:public
+ConvertScreenToWorld	pyglet_framework.py	/^    def ConvertScreenToWorld(self, x, y):$/;"	kind:member	line:609	language:Python	class:PygletFramework	access:public
+ConvertScreenToWorld	pyqt4_framework.py	/^    def ConvertScreenToWorld(self, x, y):$/;"	kind:member	line:811	language:Python	class:Pyqt4Framework	access:public
+DrawAABB	pygame_framework.py	/^    def DrawAABB(self, aabb, color):$/;"	kind:member	line:80	language:Python	class:PygameDraw	access:public
+DrawAABB	pyglet_framework.py	/^    def DrawAABB(self, aabb, color):$/;"	kind:member	line:321	language:Python	class:PygletDraw	access:public
+DrawAABB	pyqt4_framework.py	/^    def DrawAABB(self, aabb, color):$/;"	kind:member	line:113	language:Python	class:Pyqt4Draw	access:public
+DrawCircle	pygame_framework.py	/^    def DrawCircle(self, center, radius, color, drawwidth=1):$/;"	kind:member	line:109	language:Python	class:PygameDraw	access:public
+DrawCircle	pyglet_framework.py	/^    def DrawCircle(self, center, radius, color):$/;"	kind:member	line:221	language:Python	class:PygletDraw	access:public
+DrawCircle	pyqt4_framework.py	/^    def DrawCircle(self, center, radius, color, drawwidth=1, shape=None):$/;"	kind:member	line:144	language:Python	class:Pyqt4Draw	access:public
+DrawCircleShape	pyqt4_framework.py	/^    def DrawCircleShape(self, shape, transform, color, temporary=False):$/;"	kind:member	line:197	language:Python	class:Pyqt4Draw	access:public
+DrawJoint	pyqt4_framework.py	/^    def DrawJoint(self, joint):$/;"	kind:member	line:291	language:Python	class:Pyqt4Draw	access:public
+DrawPoint	pygame_framework.py	/^    def DrawPoint(self, p, size, color):$/;"	kind:member	line:74	language:Python	class:PygameDraw	access:public
+DrawPoint	pyglet_framework.py	/^    def DrawPoint(self, p, size, color):$/;"	kind:member	line:313	language:Python	class:PygletDraw	access:public
+DrawPoint	pyqt4_framework.py	/^    def DrawPoint(self, p, size, color):$/;"	kind:member	line:107	language:Python	class:Pyqt4Draw	access:public
+DrawPolygon	pygame_framework.py	/^    def DrawPolygon(self, vertices, color):$/;"	kind:member	line:131	language:Python	class:PygameDraw	access:public
+DrawPolygon	pyglet_framework.py	/^    def DrawPolygon(self, vertices, color):$/;"	kind:member	line:252	language:Python	class:PygletDraw	access:public
+DrawPolygon	pyqt4_framework.py	/^    def DrawPolygon(self, vertices, color, shape=None):$/;"	kind:member	line:168	language:Python	class:Pyqt4Draw	access:public
+DrawPolygonShape	pyqt4_framework.py	/^    def DrawPolygonShape(self, shape, transform, color, temporary=False):$/;"	kind:member	line:217	language:Python	class:Pyqt4Draw	access:public
+DrawSegment	pygame_framework.py	/^    def DrawSegment(self, p1, p2, color):$/;"	kind:member	line:91	language:Python	class:PygameDraw	access:public
+DrawSegment	pyglet_framework.py	/^    def DrawSegment(self, p1, p2, color):$/;"	kind:member	line:292	language:Python	class:PygletDraw	access:public
+DrawSegment	pyqt4_framework.py	/^    def DrawSegment(self, p1, p2, color):$/;"	kind:member	line:124	language:Python	class:Pyqt4Draw	access:public
+DrawShape	pyqt4_framework.py	/^    def DrawShape(self, shape, transform, color, selected=False):$/;"	kind:member	line:243	language:Python	class:Pyqt4Draw	access:public
+DrawSolidCircle	pygame_framework.py	/^    def DrawSolidCircle(self, center, radius, axis, color):$/;"	kind:member	line:119	language:Python	class:PygameDraw	access:public
+DrawSolidCircle	pyglet_framework.py	/^    def DrawSolidCircle(self, center, radius, axis, color):$/;"	kind:member	line:232	language:Python	class:PygletDraw	access:public
+DrawSolidCircle	pyqt4_framework.py	/^    def DrawSolidCircle(self, center, radius, axis, color, shape=None):$/;"	kind:member	line:154	language:Python	class:Pyqt4Draw	access:public
+DrawSolidPolygon	pygame_framework.py	/^    def DrawSolidPolygon(self, vertices, color):$/;"	kind:member	line:143	language:Python	class:PygameDraw	access:public
+DrawSolidPolygon	pyglet_framework.py	/^    def DrawSolidPolygon(self, vertices, color):$/;"	kind:member	line:268	language:Python	class:PygletDraw	access:public
+DrawSolidPolygon	pyqt4_framework.py	/^    def DrawSolidPolygon(self, vertices, color, shape=None):$/;"	kind:member	line:181	language:Python	class:Pyqt4Draw	access:public
+DrawStringAt	framework.py	/^    def DrawStringAt(self, x, y, str, color=(229,153,153,255)):$/;"	kind:member	line:398	language:Python	class:FrameworkBase	access:public
+DrawStringAt	pygame_framework.py	/^    def DrawStringAt(self, x, y, str, color=(229,153,153,255)):$/;"	kind:member	line:409	language:Python	class:PygameFramework	access:public
+DrawStringAt	pyglet_framework.py	/^    def DrawStringAt(self, x, y, str, color=(229,153,153,255)):$/;"	kind:member	line:630	language:Python	class:PygletFramework	access:public
+DrawStringAt	pyqt4_framework.py	/^    DrawStringAt=lambda self, *args: self.renderer.DrawStringAt(*args)$/;"	kind:variable	line:817	language:Python	class:Pyqt4Framework
+DrawStringAt	pyqt4_framework.py	/^    def DrawStringAt(self, x, y, str, color):$/;"	kind:member	line:95	language:Python	class:Pyqt4Draw	access:public
+DrawTarget	box2d_quad.py	/^	def DrawTarget(self):$/;"	kind:member	line:152	language:Python	class:qcopter	access:public
+DrawTargets	box2d_quad.py	/^	def DrawTargets(self):$/;"	kind:member	line:164	language:Python	class:qcopter	access:public
+DrawTransform	pygame_framework.py	/^    def DrawTransform(self, xf):$/;"	kind:member	line:97	language:Python	class:PygameDraw	access:public
+DrawTransform	pyqt4_framework.py	/^    def DrawTransform(self, xf):$/;"	kind:member	line:131	language:Python	class:Pyqt4Draw	access:public
+DrawXForm	pyglet_framework.py	/^    def DrawXForm(self, xf):$/;"	kind:member	line:300	language:Python	class:PygletDraw	access:public
+Empty	box2d_quad.py	/^class Empty(Framework):$/;"	kind:class	line:373	language:Python	inherits:Framework
+EndContact	framework.py	/^    def EndContact(self, contact):$/;"	kind:member	line:448	language:Python	class:FrameworkBase	access:public
+EndDraw	pygame_framework.py	/^    def EndDraw(self): pass$/;"	kind:member	line:72	language:Python	class:PygameDraw	access:public
+EndDraw	pyglet_framework.py	/^    def EndDraw(self): pass$/;"	kind:member	line:112	language:Python	class:PygletDraw	access:public
+EndDraw	pyqt4_framework.py	/^    def EndDraw(self): pass$/;"	kind:member	line:87	language:Python	class:Pyqt4Draw	access:public
+FixtureDestroyed	framework.py	/^    def FixtureDestroyed(self, fixture):$/;"	kind:member	line:453	language:Python	class:FrameworkBase	access:public
+FixtureDestroyed	pyqt4_framework.py	/^    def FixtureDestroyed(self, fixture):$/;"	kind:member	line:843	language:Python	class:Pyqt4Framework	access:public
+Framework	framework.py	/^    Framework=getattr(framework_module, '%sFramework' % fwSettings.backend.capitalize())$/;"	kind:variable	line:497	language:Python
+Framework	framework.py	/^    from pygame_framework import PygameFramework as Framework$/;"	kind:namespace	line:504	language:Python
+FrameworkBase	framework.py	/^class FrameworkBase(b2ContactListener):$/;"	kind:class	line:74	language:Python	inherits:b2ContactListener
+GUIEnabled	pygame_framework.py	/^    GUIEnabled = False$/;"	kind:variable	line:48	language:Python
+GUIEnabled	pygame_framework.py	/^    GUIEnabled = True$/;"	kind:variable	line:45	language:Python
+GetCoefs	box2d_quad.py	/^	def GetCoefs(self):$/;"	kind:member	line:233	language:Python	class:qcopter	access:public
+GetCoefs	box2d_quad.py	/^	def GetCoefs(self):$/;"	kind:member	line:259	language:Python	class:PID_typeC	access:public
+GetCoefs	box2d_quad.py	/^	def GetCoefs(self):$/;"	kind:member	line:367	language:Python	class:PID	access:public
+GetErr	box2d_quad.py	/^	def GetErr(self):$/;"	kind:member	line:224	language:Python	class:qcopter	access:public
+GetError	box2d_quad.py	/^	def GetError(self):$/;"	kind:member	line:286	language:Python	class:PID_typeC	access:public
+GetError	box2d_quad.py	/^	def GetError(self):$/;"	kind:member	line:370	language:Python	class:PID	access:public
+GetOut	box2d_quad.py	/^	def GetOut(self):$/;"	kind:member	line:358	language:Python	class:PID	access:public
+GetPos	box2d_quad.py	/^	def GetPos(self):$/;"	kind:member	line:137	language:Python	class:qcopter	access:public
+GetTarget	box2d_quad.py	/^	def GetTarget(self):$/;"	kind:member	line:227	language:Python	class:qcopter	access:public
+GetVel	box2d_quad.py	/^	def GetVel(self):$/;"	kind:member	line:144	language:Python	class:qcopter	access:public
+GraphicsScene	pyqt4_framework.py	/^class GraphicsScene (QtGui.QGraphicsScene):$/;"	kind:class	line:380	language:Python	inherits:QtGui.QGraphicsScene
+IsTargetComplete	box2d_quad.py	/^	def IsTargetComplete(self):$/;"	kind:member	line:148	language:Python	class:qcopter	access:public
+JointDestroyed	box2d_quad.py	/^	def JointDestroyed(self, joint):$/;"	kind:member	line:525	language:Python	class:Empty	access:public
+JointDestroyed	framework.py	/^    def JointDestroyed(self, joint):$/;"	kind:member	line:459	language:Python	class:FrameworkBase	access:public
+Keyboard	box2d_quad.py	/^	def Keyboard(self, key):$/;"	kind:member	line:440	language:Python	class:Empty	access:public
+Keyboard	framework.py	/^    def Keyboard(self, key):$/;"	kind:member	line:465	language:Python	class:FrameworkBase	access:public
+Keyboard	pygame_framework.py	/^    def Keyboard(self, key):$/;"	kind:member	line:423	language:Python	class:PygameFramework	access:public
+Keyboard	pyglet_framework.py	/^    def Keyboard(self, key):$/;"	kind:member	line:645	language:Python	class:PygletFramework	access:public
+Keyboard	pyqt4_framework.py	/^    def Keyboard(self, key):$/;"	kind:member	line:825	language:Python	class:Pyqt4Framework	access:public
+KeyboardUp	framework.py	/^    def KeyboardUp(self, key):$/;"	kind:member	line:471	language:Python	class:FrameworkBase	access:public
+KeyboardUp	pygame_framework.py	/^    def KeyboardUp(self, key):$/;"	kind:member	line:434	language:Python	class:PygameFramework	access:public
+KeyboardUp	pyglet_framework.py	/^    def KeyboardUp(self, key):$/;"	kind:member	line:651	language:Python	class:PygletFramework	access:public
+KeyboardUp	pyqt4_framework.py	/^    def KeyboardUp(self, key):$/;"	kind:member	line:836	language:Python	class:Pyqt4Framework	access:public
+Keys	framework.py	/^class Keys(object):$/;"	kind:class	line:71	language:Python	inherits:object
+LaunchBomb	framework.py	/^    def LaunchBomb(self, position, velocity):$/;"	kind:member	line:344	language:Python	class:FrameworkBase	access:public
+LaunchRandomBomb	framework.py	/^    def LaunchRandomBomb(self):$/;"	kind:member	line:364	language:Python	class:FrameworkBase	access:public
+MAX_TIMES	pyqt4_framework.py	/^    MAX_TIMES=20$/;"	kind:variable	line:69	language:Python	class:Pyqt4Draw
+MainWindow	pyqt4_framework.py	/^class MainWindow(QtGui.QMainWindow,Ui_MainWindow):$/;"	kind:class	line:413	language:Python	inherits:QtGui.QMainWindow,Ui_MainWindow
+ManualDraw	pyqt4_framework.py	/^    def ManualDraw(self):$/;"	kind:member	line:316	language:Python	class:Pyqt4Draw	access:public
+MouseDown	framework.py	/^    def MouseDown(self, p):$/;"	kind:member	line:276	language:Python	class:FrameworkBase	access:public
+MouseMove	framework.py	/^    def MouseMove(self, p):$/;"	kind:member	line:313	language:Python	class:FrameworkBase	access:public
+MouseUp	framework.py	/^    def MouseUp(self, p):$/;"	kind:member	line:302	language:Python	class:FrameworkBase	access:public
+NextTarget	box2d_quad.py	/^	def NextTarget(self):$/;"	kind:member	line:155	language:Python	class:qcopter	access:public
+OptionParser	settings.py	/^from optparse import OptionParser$/;"	kind:namespace	line:79	language:Python
+PID	box2d_quad.py	/^class PID:$/;"	kind:class	line:317	language:Python	inherits:
+PID_typeC	box2d_quad.py	/^class PID_typeC:$/;"	kind:class	line:237	language:Python	inherits:
+PIDz	box2d_quad.py	/^class PIDz:$/;"	kind:class	line:289	language:Python	inherits:
+PostSolve	framework.py	/^    def PostSolve(self, contact, impulse):$/;"	kind:member	line:450	language:Python	class:FrameworkBase	access:public
+PreSolve	framework.py	/^    def PreSolve(self, contact, old_manifold):$/;"	kind:member	line:413	language:Python	class:FrameworkBase	access:public
+Print	framework.py	/^    def Print(self, str, color=(229,153,153,255)):$/;"	kind:member	line:405	language:Python	class:FrameworkBase	access:public
+Print	pygame_framework.py	/^    def Print(self, str, color=(229,153,153,255)):$/;"	kind:member	line:415	language:Python	class:PygameFramework	access:public
+Print	pyglet_framework.py	/^    def Print(self, str, color=(229,153,153,255)):$/;"	kind:member	line:637	language:Python	class:PygletFramework	access:public
+Print	pyqt4_framework.py	/^    def Print(self, str, color=(229,153,153,255)):$/;"	kind:member	line:818	language:Python	class:Pyqt4Framework	access:public
+PygameDraw	pygame_framework.py	/^class PygameDraw(b2DrawExtended):$/;"	kind:class	line:50	language:Python	inherits:b2DrawExtended
+PygameFramework	pygame_framework.py	/^class PygameFramework(FrameworkBase):$/;"	kind:class	line:174	language:Python	inherits:FrameworkBase
+PygletDraw	pyglet_framework.py	/^class PygletDraw(b2Draw):$/;"	kind:class	line:94	language:Python	inherits:b2Draw
+PygletFramework	pyglet_framework.py	/^class PygletFramework(FrameworkBase):$/;"	kind:class	line:404	language:Python	inherits:FrameworkBase
+PygletWindow	pyglet_framework.py	/^class PygletWindow(pyglet.window.Window):$/;"	kind:class	line:338	language:Python	inherits:pyglet.window.Window
+Pyqt4Draw	pyqt4_framework.py	/^class Pyqt4Draw(object):$/;"	kind:class	line:50	language:Python	inherits:object
+Pyqt4Framework	pyqt4_framework.py	/^class Pyqt4Framework(FrameworkBase):$/;"	kind:class	line:540	language:Python	inherits:FrameworkBase
+QColor	pyqt4_framework.py	/^from PyQt4.QtGui import QTableWidget, QTableWidgetItem, QColor, QPixmap$/;"	kind:namespace	line:40	language:Python
+QObject	pyqt4_framework.py	/^from PyQt4.QtCore import QObject, SIGNAL, pyqtSlot$/;"	kind:namespace	line:39	language:Python
+QPixmap	pyqt4_framework.py	/^from PyQt4.QtGui import QTableWidget, QTableWidgetItem, QColor, QPixmap$/;"	kind:namespace	line:40	language:Python
+QSettings	pyqt4_framework.py	/^from PyQt4.QtCore import Qt, QSettings$/;"	kind:namespace	line:41	language:Python
+QTableWidget	pyqt4_framework.py	/^from PyQt4.QtGui import QTableWidget, QTableWidgetItem, QColor, QPixmap$/;"	kind:namespace	line:40	language:Python
+QTableWidgetItem	pyqt4_framework.py	/^from PyQt4.QtGui import QTableWidget, QTableWidgetItem, QColor, QPixmap$/;"	kind:namespace	line:40	language:Python
+Qt	pyqt4_framework.py	/^from PyQt4.QtCore import Qt, QSettings$/;"	kind:namespace	line:41	language:Python
+QtCore	pyqt4_framework.py	/^from PyQt4 import QtGui, QtCore$/;"	kind:namespace	line:38	language:Python
+QtCore	pyqt4_gui.py	/^from PyQt4 import QtCore, QtGui$/;"	kind:namespace	line:10	language:Python
+QtGui	pyqt4_framework.py	/^from PyQt4 import QtGui, QtCore$/;"	kind:namespace	line:38	language:Python
+QtGui	pyqt4_gui.py	/^from PyQt4 import QtCore, QtGui$/;"	kind:namespace	line:10	language:Python
+ReportFixture	framework.py	/^    def ReportFixture(self, fixture):$/;"	kind:member	line:60	language:Python	class:fwQueryCallback	access:public
+SIGNAL	pyqt4_framework.py	/^from PyQt4.QtCore import QObject, SIGNAL, pyqtSlot$/;"	kind:namespace	line:39	language:Python
+SayGoodbye	framework.py	/^    def SayGoodbye(self, object):$/;"	kind:member	line:45	language:Python	class:fwDestructionListener	access:public
+SetCoefs	box2d_quad.py	/^	def SetCoefs(self,kp,ki,kd):$/;"	kind:member	line:230	language:Python	class:qcopter	access:public
+SetCoefs	box2d_quad.py	/^	def SetCoefs(self,kp,ki,kd):$/;"	kind:member	line:253	language:Python	class:PID_typeC	access:public
+SetCoefs	box2d_quad.py	/^	def SetCoefs(self,kp,ki,kd):$/;"	kind:member	line:297	language:Python	class:PIDz	access:public
+SetCoefs	box2d_quad.py	/^	def SetCoefs(self,kp,ki,kd):$/;"	kind:member	line:361	language:Python	class:PID	access:public
+SetCut	box2d_quad.py	/^	def SetCut(self,cut):$/;"	kind:member	line:134	language:Python	class:qcopter	access:public
+SetFlags	pyqt4_framework.py	/^    def SetFlags(self, **kwargs): $/;"	kind:member	line:89	language:Python	class:Pyqt4Draw	access:public
+SetTarget	box2d_quad.py	/^	def SetTarget(self,p):$/;"	kind:member	line:140	language:Python	class:qcopter	access:public
+SetTargetAng	box2d_quad.py	/^	def SetTargetAng(self,a):$/;"	kind:member	line:168	language:Python	class:qcopter	access:public
+ShapeDestroyed	box2d_quad.py	/^	def ShapeDestroyed(self, shape):$/;"	kind:member	line:519	language:Python	class:Empty	access:public
+ShiftMouseDown	box2d_quad.py	/^	def ShiftMouseDown(self,p):$/;"	kind:member	line:514	language:Python	class:Empty	access:public
+ShiftMouseDown	framework.py	/^    def ShiftMouseDown(self, p):$/;"	kind:member	line:266	language:Python	class:FrameworkBase	access:public
+ShowProperties	pyqt4_framework.py	/^    def ShowProperties(self, p):$/;"	kind:member	line:789	language:Python	class:Pyqt4Framework	access:public
+SimulationLoop	framework.py	/^    def SimulationLoop(self):$/;"	kind:member	line:372	language:Python	class:FrameworkBase	access:public
+SimulationLoop	pyglet_framework.py	/^    def SimulationLoop(self, dt):$/;"	kind:member	line:531	language:Python	class:PygletFramework	access:public
+SpawnBomb	framework.py	/^    def SpawnBomb(self, worldPt):$/;"	kind:member	line:321	language:Python	class:FrameworkBase	access:public
+StartDraw	pygame_framework.py	/^    def StartDraw(self):$/;"	kind:member	line:66	language:Python	class:PygameDraw	access:public
+StartDraw	pyglet_framework.py	/^    def StartDraw(self): pass$/;"	kind:member	line:111	language:Python	class:PygletDraw	access:public
+StartDraw	pyqt4_framework.py	/^    def StartDraw(self):$/;"	kind:member	line:82	language:Python	class:Pyqt4Draw	access:public
+Step	box2d_quad.py	/^	def Step(self, settings):$/;"	kind:member	line:482	language:Python	class:Empty	access:public
+Step	framework.py	/^    def Step(self, settings):$/;"	kind:member	line:135	language:Python	class:FrameworkBase	access:public
+Step	pygame_framework.py	/^    def Step(self, settings):$/;"	kind:member	line:393	language:Python	class:PygameFramework	access:public
+Step	pyqt4_framework.py	/^    def Step(self, settings):$/;"	kind:member	line:808	language:Python	class:Pyqt4Framework	access:public
+TEXTLINE_START	framework.py	/^    TEXTLINE_START=30$/;"	kind:variable	line:89	language:Python	class:FrameworkBase
+TEXTLINE_START	pygame_framework.py	/^    TEXTLINE_START=30$/;"	kind:variable	line:175	language:Python	class:PygameFramework
+TEXTLINE_START	pyqt4_framework.py	/^    TEXTLINE_START=0$/;"	kind:variable	line:541	language:Python	class:Pyqt4Framework
+THRUST_KOEF	box2d_quad.py	/^	THRUST_KOEF = 5$/;"	kind:variable	line:65	language:Python	class:qcopter
+Ui_MainWindow	pyqt4_framework.py	/^from pyqt4_gui import Ui_MainWindow$/;"	kind:namespace	line:42	language:Python
+Ui_MainWindow	pyqt4_gui.py	/^class Ui_MainWindow(object):$/;"	kind:class	line:17	language:Python	inherits:object
+Update	box2d_quad.py	/^	def Update(self):$/;"	kind:member	line:171	language:Python	class:qcopter	access:public
+Update	box2d_quad.py	/^	def Update(self, dest, meas):$/;"	kind:member	line:332	language:Python	class:PID	access:public
+Update	box2d_quad.py	/^	def Update(self,setpoint,y):$/;"	kind:member	line:302	language:Python	class:PIDz	access:public
+Update	box2d_quad.py	/^	def Update(self,sp,pv):$/;"	kind:member	line:262	language:Python	class:PID_typeC	access:public
+UpdateGraph	box2d_quad.py	/^	def UpdateGraph(self,p1,p2,p3):$/;"	kind:member	line:50	language:Python	class:graph	access:public
+_Keyboard_Event	pygame_framework.py	/^    def _Keyboard_Event(self, key, down=True):$/;"	kind:member	line:345	language:Python	class:PygameFramework	access:public
+_Keyboard_Event	pyglet_framework.py	/^    def _Keyboard_Event(self, key, down=True):$/;"	kind:member	line:561	language:Python	class:PygletFramework	access:public
+_Keyboard_Event	pyqt4_framework.py	/^    def _Keyboard_Event(self, key, down=True):$/;"	kind:member	line:645	language:Python	class:Pyqt4Framework	access:public
+_ShowProperties	pyqt4_framework.py	/^    def _ShowProperties(self, obj):$/;"	kind:member	line:667	language:Python	class:Pyqt4Framework	access:public
+__call__	box2d_quad.py	/^	def __call__(self,e):$/;"	kind:member	line:32	language:Python	class:filter	file:	access:private
+__del__	framework.py	/^    def __del__(self):$/;"	kind:member	line:132	language:Python	class:FrameworkBase	file:	access:private
+__init__	box2d_quad.py	/^	def __init__(self):$/;"	kind:member	line:386	language:Python	class:Empty	access:public
+__init__	box2d_quad.py	/^	def __init__(self,a):$/;"	kind:member	line:28	language:Python	class:filter	access:public
+__init__	box2d_quad.py	/^	def __init__(self,kp,ki,kd,dt,max,min):$/;"	kind:member	line:318	language:Python	class:PID	access:public
+__init__	box2d_quad.py	/^	def __init__(self,kp,ki,kd,max,min):$/;"	kind:member	line:290	language:Python	class:PIDz	access:public
+__init__	box2d_quad.py	/^	def __init__(self,kp,ki,kd,t,max,min,plot):$/;"	kind:member	line:243	language:Python	class:PID_typeC	access:public
+__init__	box2d_quad.py	/^	def __init__(self,r,k,x0,y0,w,h):$/;"	kind:member	line:37	language:Python	class:graph	access:public
+__init__	box2d_quad.py	/^	def __init__(self,world,renderer,a,b,x,y,ang,mode=0):$/;"	kind:member	line:69	language:Python	class:qcopter	access:public
+__init__	framework.py	/^    def __init__(self):$/;"	kind:member	line:119	language:Python	class:FrameworkBase	access:public
+__init__	framework.py	/^    def __init__(self, **kwargs):$/;"	kind:member	line:42	language:Python	class:fwDestructionListener	access:public
+__init__	framework.py	/^    def __init__(self, p): $/;"	kind:member	line:55	language:Python	class:fwQueryCallback	access:public
+__init__	pygame_framework.py	/^    def __init__(self):$/;"	kind:member	line:198	language:Python	class:PygameFramework	access:public
+__init__	pygame_framework.py	/^    def __init__(self, **kwargs): $/;"	kind:member	line:60	language:Python	class:PygameDraw	access:public
+__init__	pygame_gui.py	/^    def __init__(self,settings, **params):$/;"	kind:member	line:36	language:Python	class:fwGUI	access:public
+__init__	pyglet_framework.py	/^    def __init__(self):$/;"	kind:member	line:452	language:Python	class:PygletFramework	access:public
+__init__	pyglet_framework.py	/^    def __init__(self, size=4.0):$/;"	kind:member	line:60	language:Python	class:grPointSize	access:public
+__init__	pyglet_framework.py	/^    def __init__(self, test): $/;"	kind:member	line:107	language:Python	class:PygletDraw	access:public
+__init__	pyglet_framework.py	/^    def __init__(self, test):$/;"	kind:member	line:339	language:Python	class:PygletWindow	access:public
+__init__	pyglet_framework.py	/^    def __init__(self, window=None):$/;"	kind:member	line:74	language:Python	class:grText	access:public
+__init__	pyqt4_framework.py	/^    def __init__(self):$/;"	kind:member	line:576	language:Python	class:Pyqt4Framework	access:public
+__init__	pyqt4_framework.py	/^    def __init__(self, test): $/;"	kind:member	line:71	language:Python	class:Pyqt4Draw	access:public
+__init__	pyqt4_framework.py	/^    def __init__(self, test, parent=None):$/;"	kind:member	line:381	language:Python	class:GraphicsScene	access:public
+__init__	pyqt4_framework.py	/^    def __init__(self, test, parent=None):$/;"	kind:member	line:414	language:Python	class:MainWindow	access:public
+__reset	framework.py	/^    def __reset(self):$/;"	kind:member	line:100	language:Python	class:FrameworkBase	file:	access:private
+__reset	pygame_framework.py	/^    def __reset(self):$/;"	kind:member	line:182	language:Python	class:PygameFramework	file:	access:private
+__reset	pyglet_framework.py	/^    def __reset(self):$/;"	kind:member	line:425	language:Python	class:PygletFramework	file:	access:private
+__reset	pyqt4_framework.py	/^    def __reset(self):$/;"	kind:member	line:561	language:Python	class:Pyqt4Framework	file:	access:private
+_fromUtf8	pyqt4_gui.py	/^    _fromUtf8 = QtCore.QString.fromUtf8$/;"	kind:variable	line:13	language:Python
+_fromUtf8	pyqt4_gui.py	/^    _fromUtf8 = lambda s: s$/;"	kind:variable	line:15	language:Python
+_getLLCircleVertices	pyglet_framework.py	/^    def _getLLCircleVertices(self, radius, points):$/;"	kind:member	line:143	language:Python	class:PygletDraw	access:public
+_getTFCircleVertices	pyglet_framework.py	/^    def _getTFCircleVertices(self, radius, points):$/;"	kind:member	line:166	language:Python	class:PygletDraw	access:public
+_remove_from_cache	pyqt4_framework.py	/^    def _remove_from_cache(self, shape):$/;"	kind:member	line:236	language:Python	class:Pyqt4Draw	access:public
+action	settings.py	/^                              action='store_'+str(not value).lower(),$/;"	kind:variable	line:89	language:Python
+action	settings.py	/^                              action='store_'+str(not value).lower(),$/;"	kind:variable	line:93	language:Python
+add_settings_widgets	pyqt4_framework.py	/^    def add_settings_widgets(self):$/;"	kind:member	line:431	language:Python	class:MainWindow	access:public
+app	pyqt4_framework.py	/^app=None$/;"	kind:variable	line:539	language:Python
+axisScale	pygame_framework.py	/^    axisScale = 10.0$/;"	kind:variable	line:59	language:Python	class:PygameDraw
+axisScale	pyqt4_framework.py	/^    axisScale = 0.4$/;"	kind:variable	line:70	language:Python	class:Pyqt4Draw
+back	framework.py	/^    print('Unable to import the back-end %s: %s' % (fwSettings.backend, ex))$/;"	kind:namespace	line:501	language:Python
+backend	settings.py	/^    backend='pygame'        # The default backend to use in (can be: pyglet, pygame, etc.)$/;"	kind:variable	line:24	language:Python	class:fwSettings
+blended	pyglet_framework.py	/^    blended = grBlended()$/;"	kind:variable	line:102	language:Python	class:PygletDraw
+body	box2d_quad.py	/^	body = None$/;"	kind:variable	line:64	language:Python	class:qcopter
+center	box2d_quad.py	/^	center = 0$/;"	kind:variable	line:380	language:Python	class:Empty
+checkEvents	pygame_framework.py	/^    def checkEvents(self):$/;"	kind:member	line:260	language:Python	class:PygameFramework	access:public
+checkboxes	pygame_gui.py	/^from settings import checkboxes$/;"	kind:namespace	line:25	language:Python
+checkboxes	settings.py	/^checkboxes =( ("Warm Starting"   , "enableWarmStarting"), $/;"	kind:variable	line:56	language:Python
+circle_cache_ll	pyglet_framework.py	/^    circle_cache_ll = {} # line loop (border)$/;"	kind:variable	line:106	language:Python	class:PygletDraw
+circle_cache_tf	pyglet_framework.py	/^    circle_cache_tf = {} # triangle fan (inside)$/;"	kind:variable	line:105	language:Python	class:PygletDraw
+circle_segments	pyglet_framework.py	/^    circle_segments = 16$/;"	kind:variable	line:103	language:Python	class:PygletDraw
+closeEvent	pyqt4_framework.py	/^    def closeEvent(self, event):$/;"	kind:member	line:535	language:Python	class:MainWindow	access:public
+colors	framework.py	/^    colors={$/;"	kind:variable	line:90	language:Python	class:FrameworkBase
+cos	box2d_quad.py	/^from math import sin,cos,sqrt$/;"	kind:namespace	line:24	language:Python
+cut	box2d_quad.py	/^	cut = 1$/;"	kind:variable	line:66	language:Python	class:qcopter
+cut	box2d_quad.py	/^	cut =1$/;"	kind:variable	line:379	language:Python	class:Empty
+dd	box2d_quad.py	/^	dd = 0.01$/;"	kind:variable	line:384	language:Python	class:Empty
+description	box2d_quad.py	/^	description="The description text goes here"$/;"	kind:variable	line:378	language:Python	class:Empty
+description	framework.py	/^    description = None$/;"	kind:variable	line:88	language:Python	class:FrameworkBase
+di	box2d_quad.py	/^	di = 0.00001$/;"	kind:variable	line:383	language:Python	class:Empty
+dp	box2d_quad.py	/^	dp = 0.01$/;"	kind:variable	line:382	language:Python	class:Empty
+drawAABBs	settings.py	/^    drawAABBs=False$/;"	kind:variable	line:39	language:Python	class:fwSettings
+drawCOMs	settings.py	/^    drawCOMs=False            # Centers of mass$/;"	kind:variable	line:47	language:Python	class:fwSettings
+drawContactNormals	settings.py	/^    drawContactNormals=False$/;"	kind:variable	line:44	language:Python	class:fwSettings
+drawContactPoints	settings.py	/^    drawContactPoints=False$/;"	kind:variable	line:42	language:Python	class:fwSettings
+drawCoreShapes	settings.py	/^    drawCoreShapes=False$/;"	kind:variable	line:38	language:Python	class:fwSettings
+drawFPS	settings.py	/^    drawFPS=True$/;"	kind:variable	line:45	language:Python	class:fwSettings
+drawJoints	settings.py	/^    drawJoints=True$/;"	kind:variable	line:37	language:Python	class:fwSettings
+drawMenu	settings.py	/^    drawMenu=True             # toggle by pressing F1$/;"	kind:variable	line:46	language:Python	class:fwSettings
+drawOBBs	settings.py	/^    drawOBBs=False$/;"	kind:variable	line:40	language:Python	class:fwSettings
+drawPairs	settings.py	/^    drawPairs=False$/;"	kind:variable	line:41	language:Python	class:fwSettings
+drawShapes	settings.py	/^    drawShapes=True$/;"	kind:variable	line:36	language:Python	class:fwSettings
+drawStats	settings.py	/^    drawStats=True$/;"	kind:variable	line:35	language:Python	class:fwSettings
+enableContinuous	settings.py	/^    enableContinuous=True     # Calculate time of impact$/;"	kind:variable	line:31	language:Python	class:fwSettings
+enableSubStepping	settings.py	/^    enableSubStepping=False$/;"	kind:variable	line:32	language:Python	class:fwSettings
+enableWarmStarting	settings.py	/^    enableWarmStarting=True   # Makes physics results more accurate (see Box2D wiki)$/;"	kind:variable	line:30	language:Python	class:fwSettings
+end	framework.py	/^    print('Unable to import the back-end %s: %s' % (fwSettings.backend, ex))$/;"	kind:namespace	line:501	language:Python
+ex	framework.py	/^    ex=exc_info()[1]$/;"	kind:variable	line:500	language:Python
+exc_info	framework.py	/^    from sys import exc_info$/;"	kind:namespace	line:499	language:Python
+filter	box2d_quad.py	/^class filter:$/;"	kind:class	line:27	language:Python	inherits:
+form	pygame_gui.py	/^    form = None$/;"	kind:variable	line:34	language:Python	class:fwGUI
+framework	pygame_framework.py	/^import framework$/;"	kind:namespace	line:39	language:Python
+framework	pyglet_framework.py	/^import framework$/;"	kind:namespace	line:40	language:Python
+framework_module	framework.py	/^    framework_module=__import__('%s_framework' % (fwSettings.backend.lower()), fromlist=['%sFramework' % fwSettings.backend.capitalize()])$/;"	kind:variable	line:496	language:Python
+fwDestructionListener	framework.py	/^class fwDestructionListener(b2DestructionListener):$/;"	kind:class	line:36	language:Python	inherits:b2DestructionListener
+fwGUI	pygame_framework.py	/^    from pygame_gui import (fwGUI, gui)$/;"	kind:namespace	line:44	language:Python
+fwGUI	pygame_gui.py	/^class fwGUI(gui.Table):$/;"	kind:class	line:28	language:Python	inherits:gui.Table
+fwQueryCallback	framework.py	/^class fwQueryCallback(b2QueryCallback):$/;"	kind:class	line:54	language:Python	inherits:b2QueryCallback
+fwSettings	framework.py	/^from settings import fwSettings$/;"	kind:namespace	line:26	language:Python
+fwSettings	settings.py	/^class fwSettings(object):$/;"	kind:class	line:23	language:Python	inherits:object
+getCircleVertices	pyglet_framework.py	/^    def getCircleVertices(self, center, radius, points):$/;"	kind:member	line:191	language:Python	class:PygletDraw	access:public
+gl	pyglet_framework.py	/^from pyglet import gl$/;"	kind:namespace	line:42	language:Python
+grBlended	pyglet_framework.py	/^class grBlended (pyglet.graphics.Group):$/;"	kind:class	line:46	language:Python	inherits:pyglet.graphics.Group
+grPointSize	pyglet_framework.py	/^class grPointSize (pyglet.graphics.Group):$/;"	kind:class	line:56	language:Python	inherits:pyglet.graphics.Group
+grText	pyglet_framework.py	/^class grText(pyglet.graphics.Group):$/;"	kind:class	line:68	language:Python	inherits:pyglet.graphics.Group
+graph	box2d_quad.py	/^class graph:$/;"	kind:class	line:36	language:Python	inherits:
+gui	pygame_framework.py	/^    from pygame_gui import (fwGUI, gui)$/;"	kind:namespace	line:44	language:Python
+gui	pygame_gui.py	/^    from pgu import gui$/;"	kind:namespace	line:21	language:Python
+help	settings.py	/^                              help="don't "+opt_name)$/;"	kind:variable	line:90	language:Python
+help	settings.py	/^                              help=opt_name)$/;"	kind:variable	line:94	language:Python
+help	settings.py	/^                          help='sets the %s option'%(opt_name,))$/;"	kind:variable	line:105	language:Python
+hz	settings.py	/^    hz=60.0$/;"	kind:variable	line:27	language:Python	class:fwSettings
+kd	box2d_quad.py	/^	kd = 0.0$/;"	kind:variable	line:242	language:Python	class:PID_typeC
+keyPressEvent	pyqt4_framework.py	/^    def keyPressEvent(self, event):$/;"	kind:member	line:385	language:Python	class:GraphicsScene	access:public
+keyPressEvent	pyqt4_framework.py	/^    def keyPressEvent(self, event):$/;"	kind:member	line:491	language:Python	class:MainWindow	access:public
+keyReleaseEvent	pyqt4_framework.py	/^    def keyReleaseEvent(self, event):$/;"	kind:member	line:388	language:Python	class:GraphicsScene	access:public
+keyReleaseEvent	pyqt4_framework.py	/^    def keyReleaseEvent(self, event):$/;"	kind:member	line:494	language:Python	class:MainWindow	access:public
+ki	box2d_quad.py	/^	ki = 0.0$/;"	kind:variable	line:241	language:Python	class:PID_typeC
+kp	box2d_quad.py	/^	kp = 0.0$/;"	kind:variable	line:240	language:Python	class:PID_typeC
+line_loop	pyglet_framework.py	/^    def line_loop(self, vertices):$/;"	kind:member	line:127	language:Python	class:PygletDraw	access:public
+list_options	settings.py	/^list_options = [i for i in dir(fwSettings) if not i.startswith('_')]$/;"	kind:variable	line:82	language:Python
+main	framework.py	/^def main(test_class):$/;"	kind:function	line:477	language:Python	access:public
+math	pyglet_framework.py	/^import math$/;"	kind:namespace	line:44	language:Python
+maxContactPoints	settings.py	/^    maxContactPoints=100$/;"	kind:variable	line:43	language:Python	class:fwSettings
+mouseMoveEvent	pyqt4_framework.py	/^    def mouseMoveEvent(self, event):$/;"	kind:member	line:408	language:Python	class:GraphicsScene	access:public
+mousePressEvent	pyqt4_framework.py	/^    def mousePressEvent(self, event):$/;"	kind:member	line:391	language:Python	class:GraphicsScene	access:public
+mouseReleaseEvent	pyqt4_framework.py	/^    def mouseReleaseEvent(self, event):$/;"	kind:member	line:401	language:Python	class:GraphicsScene	access:public
+name	box2d_quad.py	/^	name = "Quadcopter" # Name of the to display$/;"	kind:variable	line:377	language:Python	class:Empty
+name	framework.py	/^    name = "None"$/;"	kind:variable	line:87	language:Python	class:FrameworkBase
+on_close	pyglet_framework.py	/^    def on_close(self):$/;"	kind:member	line:343	language:Python	class:PygletWindow	access:public
+on_key_press	pyglet_framework.py	/^    def on_key_press(self, key, modifiers):$/;"	kind:member	line:356	language:Python	class:PygletWindow	access:public
+on_key_release	pyglet_framework.py	/^    def on_key_release(self, key, modifiers):$/;"	kind:member	line:359	language:Python	class:PygletWindow	access:public
+on_mouse_drag	pyglet_framework.py	/^    def on_mouse_drag(self, x, y, dx, dy, buttons, modifiers):$/;"	kind:member	line:392	language:Python	class:PygletWindow	access:public
+on_mouse_press	pyglet_framework.py	/^    def on_mouse_press(self, x, y, button, modifiers):$/;"	kind:member	line:362	language:Python	class:PygletWindow	access:public
+on_mouse_release	pyglet_framework.py	/^    def on_mouse_release(self, x, y, button, modifiers):$/;"	kind:member	line:373	language:Python	class:PygletWindow	access:public
+on_mouse_scroll	pyglet_framework.py	/^    def on_mouse_scroll(self, x, y, scroll_x, scroll_y):$/;"	kind:member	line:383	language:Python	class:PygletWindow	access:public
+on_show	pyglet_framework.py	/^    def on_show(self):$/;"	kind:member	line:350	language:Python	class:PygletWindow	access:public
+onlyInit	settings.py	/^    onlyInit=False            # run the test's initialization without graphics, and then quit (for testing)$/;"	kind:variable	line:53	language:Python	class:fwSettings
+opttype	settings.py	/^            opttype = 'float'$/;"	kind:variable	line:100	language:Python
+opttype	settings.py	/^            opttype = 'int'$/;"	kind:variable	line:98	language:Python
+opttype	settings.py	/^            opttype = 'string'$/;"	kind:variable	line:102	language:Python
+parser	settings.py	/^parser = OptionParser()$/;"	kind:variable	line:81	language:Python
+pause	settings.py	/^    pause=False$/;"	kind:variable	line:51	language:Python	class:fwSettings
+pointSize	settings.py	/^    pointSize=2.5             # pixel radius for drawing points$/;"	kind:variable	line:48	language:Python	class:fwSettings
+positionIterations	settings.py	/^    positionIterations=3$/;"	kind:variable	line:29	language:Python	class:fwSettings
+prop_cell_changed	pyqt4_framework.py	/^    def prop_cell_changed(self, twi):$/;"	kind:member	line:756	language:Python	class:Pyqt4Framework	access:public
+property_changed	pyqt4_framework.py	/^    def property_changed(self, prop, value=None):$/;"	kind:member	line:765	language:Python	class:Pyqt4Framework	access:public
+pygame	pygame_framework.py	/^import pygame$/;"	kind:namespace	line:38	language:Python
+pyglet	pyglet_framework.py	/^import pyglet$/;"	kind:namespace	line:39	language:Python
+pyqtSlot	pyqt4_framework.py	/^from PyQt4.QtCore import QObject, SIGNAL, pyqtSlot$/;"	kind:namespace	line:39	language:Python
+qcopter	box2d_quad.py	/^class qcopter:$/;"	kind:class	line:63	language:Python	inherits:
+re	pyqt4_framework.py	/^import re$/;"	kind:namespace	line:48	language:Python
+reset_properties_list	pyqt4_framework.py	/^    def reset_properties_list(self):$/;"	kind:member	line:484	language:Python	class:MainWindow	access:public
+restoreLayout	pyqt4_framework.py	/^    def restoreLayout(self):$/;"	kind:member	line:513	language:Python	class:MainWindow	access:public
+retranslateUi	pyqt4_gui.py	/^    def retranslateUi(self, MainWindow):$/;"	kind:member	line:79	language:Python	class:Ui_MainWindow	access:public
+run	pygame_framework.py	/^    def run(self):$/;"	kind:member	line:307	language:Python	class:PygameFramework	access:public
+run	pyglet_framework.py	/^    def run(self):$/;"	kind:member	line:516	language:Python	class:PygletFramework	access:public
+run	pyqt4_framework.py	/^    def run(self):$/;"	kind:member	line:625	language:Python	class:Pyqt4Framework	access:public
+s	framework.py	/^    print('Unable to import the back-end %s: %s' % (fwSettings.backend, ex))$/;"	kind:namespace	line:501	language:Python
+saveLayout	pyqt4_framework.py	/^    def saveLayout(self):$/;"	kind:member	line:526	language:Python	class:MainWindow	access:public
+setCenter	pygame_framework.py	/^    def setCenter(self, value):$/;"	kind:member	line:240	language:Python	class:PygameFramework	access:public
+setCenter	pyglet_framework.py	/^    def setCenter(self, value):$/;"	kind:member	line:475	language:Python	class:PygletFramework	access:public
+setCenter	pyqt4_framework.py	/^    def setCenter(self, value):$/;"	kind:member	line:602	language:Python	class:Pyqt4Framework	access:public
+setFontSize	pyqt4_framework.py	/^    def setFontSize(self, size):$/;"	kind:member	line:501	language:Python	class:MainWindow	access:public
+setZoom	pygame_framework.py	/^    def setZoom(self, zoom):$/;"	kind:member	line:250	language:Python	class:PygameFramework	access:public
+setZoom	pyglet_framework.py	/^    def setZoom(self, zoom):$/;"	kind:member	line:484	language:Python	class:PygletFramework	access:public
+setZoom	pyqt4_framework.py	/^    def setZoom(self, zoom):$/;"	kind:member	line:612	language:Python	class:Pyqt4Framework	access:public
+set_state	pyglet_framework.py	/^    def set_state(self):$/;"	kind:member	line:50	language:Python	class:grBlended	access:public
+set_state	pyglet_framework.py	/^    def set_state(self):$/;"	kind:member	line:63	language:Python	class:grPointSize	access:public
+set_state	pyglet_framework.py	/^    def set_state(self):$/;"	kind:member	line:78	language:Python	class:grText	access:public
+settings	pyqt4_framework.py	/^    def settings(self):$/;"	kind:member	line:498	language:Python	class:MainWindow	access:public
+settings	pyqt4_framework.py	/^import settings$/;"	kind:namespace	line:45	language:Python
+setupUi	pyqt4_gui.py	/^    def setupUi(self, MainWindow):$/;"	kind:member	line:18	language:Python	class:Ui_MainWindow	access:public
+setup_keys	pygame_framework.py	/^    def setup_keys(self):$/;"	kind:member	line:176	language:Python	class:PygameFramework	access:public
+setup_keys	pyglet_framework.py	/^    def setup_keys(self):$/;"	kind:member	line:405	language:Python	class:PygletFramework	access:public
+setup_keys	pyqt4_framework.py	/^    def setup_keys(self):$/;"	kind:member	line:542	language:Python	class:Pyqt4Framework	access:public
+sin	box2d_quad.py	/^from math import sin,cos,sqrt$/;"	kind:namespace	line:24	language:Python
+singleStep	settings.py	/^    singleStep=False$/;"	kind:variable	line:52	language:Python	class:fwSettings
+sliders	pygame_gui.py	/^from settings import sliders$/;"	kind:namespace	line:26	language:Python
+sliders	settings.py	/^sliders = [$/;"	kind:variable	line:73	language:Python
+sqrt	box2d_quad.py	/^from math import sin,cos,sqrt$/;"	kind:namespace	line:24	language:Python
+string	pyglet_framework.py	/^import string$/;"	kind:namespace	line:43	language:Python
+string	pyqt4_framework.py	/^import string$/;"	kind:namespace	line:46	language:Python
+surface	pygame_framework.py	/^    surface = None$/;"	kind:variable	line:58	language:Python	class:PygameDraw
+surface	pyglet_framework.py	/^    surface = None$/;"	kind:variable	line:104	language:Python	class:PygletDraw
+sys	pyqt4_framework.py	/^import sys$/;"	kind:namespace	line:47	language:Python
+test	framework.py	/^    test = None$/;"	kind:variable	line:41	language:Python	class:fwDestructionListener
+the	framework.py	/^    print('Unable to import the back-end %s: %s' % (fwSettings.backend, ex))$/;"	kind:namespace	line:501	language:Python
+thrust	box2d_quad.py	/^	thrust = 0.0$/;"	kind:variable	line:67	language:Python	class:qcopter
+time	framework.py	/^from time import time$/;"	kind:namespace	line:27	language:Python
+time	pyqt4_framework.py	/^from time import time$/;"	kind:namespace	line:44	language:Python
+to_screen	pyglet_framework.py	/^    def to_screen(self, point):$/;"	kind:member	line:332	language:Python	class:PygletDraw	access:public
+to_screen	pyqt4_framework.py	/^    def to_screen(self, point):$/;"	kind:member	line:374	language:Python	class:Pyqt4Draw	access:public
+triangle_fan	pyglet_framework.py	/^    def triangle_fan(self, vertices):$/;"	kind:member	line:113	language:Python	class:PygletDraw	access:public
+type	settings.py	/^                          type=opttype,$/;"	kind:variable	line:104	language:Python
+unset_state	pyglet_framework.py	/^    def unset_state(self):$/;"	kind:member	line:53	language:Python	class:grBlended	access:public
+unset_state	pyglet_framework.py	/^    def unset_state(self):$/;"	kind:member	line:65	language:Python	class:grPointSize	access:public
+unset_state	pyglet_framework.py	/^    def unset_state(self):$/;"	kind:member	line:88	language:Python	class:grText	access:public
+updateGUI	pygame_gui.py	/^    def updateGUI(self, settings):$/;"	kind:member	line:69	language:Python	class:fwGUI	access:public
+updateProjection	pyglet_framework.py	/^    def updateProjection(self):$/;"	kind:member	line:493	language:Python	class:PygletFramework	access:public
+updateSettings	pygame_gui.py	/^    def updateSettings(self, settings):$/;"	kind:member	line:83	language:Python	class:fwGUI	access:public
+update_slider	pyqt4_framework.py	/^        def update_slider(var, value, text, label):$/;"	kind:function	line:451	language:Python	function:MainWindow.add_settings_widgets	access:public
+update_widgets_from_settings	pyqt4_framework.py	/^    def update_widgets_from_settings(self, step_settings=None):$/;"	kind:member	line:470	language:Python	class:MainWindow	access:public
+value	settings.py	/^    value = getattr(fwSettings, opt_name)$/;"	kind:variable	line:85	language:Python
+velocityIterations	settings.py	/^    velocityIterations=8$/;"	kind:variable	line:28	language:Python	class:fwSettings
+viewCenter	pygame_framework.py	/^    viewCenter = property(lambda self: self._viewCenter\/self._viewZoom, setCenter, $/;"	kind:variable	line:255	language:Python	class:PygameFramework
+viewCenter	pyglet_framework.py	/^    viewCenter = property(lambda self: self._viewCenter, setCenter, $/;"	kind:variable	line:490	language:Python	class:PygletFramework
+viewCenter	pyqt4_framework.py	/^    viewCenter = property(lambda self: self._viewCenter, setCenter, $/;"	kind:variable	line:620	language:Python	class:Pyqt4Framework
+viewOffset	pygame_framework.py	/^    viewOffset = property(lambda self: self._viewOffset,$/;"	kind:variable	line:257	language:Python	class:PygameFramework
+viewOffset	pyqt4_framework.py	/^    viewOffset = property(lambda self: self._viewOffset,$/;"	kind:variable	line:622	language:Python	class:Pyqt4Framework
+viewZoom	pygame_framework.py	/^    viewZoom   = property(lambda self: self._viewZoom, setZoom,$/;"	kind:variable	line:253	language:Python	class:PygameFramework
+viewZoom	pyglet_framework.py	/^    viewZoom   = property(lambda self: self._viewZoom, setZoom,$/;"	kind:variable	line:488	language:Python	class:PygletFramework
+viewZoom	pyqt4_framework.py	/^    viewZoom   = property(lambda self: self._viewZoom, setZoom,$/;"	kind:variable	line:618	language:Python	class:Pyqt4Framework
+window	pyglet_framework.py	/^    window = None$/;"	kind:variable	line:73	language:Python	class:grText

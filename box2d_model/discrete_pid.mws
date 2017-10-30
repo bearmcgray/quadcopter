@@ -1,0 +1,19 @@
+{VERSION 5 0 "IBM INTEL NT" "5.0" }
+{USTYLETAB {CSTYLE "Maple Input" -1 0 "Courier" 0 1 255 0 0 1 0 1 0 0 
+1 0 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 0 1 0 0 0 0 0 0 2 0 0 0 0 
+0 0 1 }{CSTYLE "2D Output" 2 20 "" 0 1 0 0 255 1 0 0 0 0 0 0 0 0 0 1 }
+{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 }0 0 0 -1 -1 -1 0 0 0 0 0 0 -1 0 }{PSTYLE "Maple Output" 0 11 1 
+{CSTYLE "" -1 -1 "" 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 }3 3 0 -1 -1 -1 0 
+0 0 0 0 0 -1 0 }}
+{SECT 0 {EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "u0:=u1+Kp*(e0-e1)+Kp*h/Ti*e0+Kp*Td/
+h*(e0-2*e1+e2);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6#>%#u0G,*%#u1G\"\"\"
+*&%#KpGF',&%#e0GF'%#e1G!\"\"F'F'**F)F'%\"hGF'%#TiGF-F+F'F'**F)F'%#TdGF
+'F/F-,(F+F'*&\"\"#F'F,F'F-%#e2GF'F'F'" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 23 "collect(u0,[e0,e1,e2]);" }}{PARA 11 "" 1 "" {XPPMATH 
+20 "6#,**&,(%#KpG\"\"\"*(F&F'%\"hGF'%#TiG!\"\"F'*(F&F'%#TdGF'F)F+F'F'%
+#e0GF'F'*&,&F&F+**\"\"#F'F&F'F-F'F)F+F+F'%#e1GF'F'%#u1GF'**F&F'F-F'F)F
++%#e2GF'F'" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 0 "" }}}}{MARK "3
+ 0 0" 0 }{VIEWOPTS 1 1 0 1 1 1803 1 1 1 1 }{PAGENUMBERS 0 1 2 33 1 1 }
+
